@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scale Operations"
+  short_description: "Operations management and scaling judgment"
+  default_prompt: "Use $scale-operations to diagnose an operations bottleneck and create a practical scaling plan."
